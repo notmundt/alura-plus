@@ -12,6 +12,6 @@ I have changed the content of the page (and its respective classes) to **English
 
 ## Preview
 
-You can see a live demo of the site right [here](https://notmundt.github.io/alura-plus/)
+You can see a live demo of the site right [here](https://alura-plus-one-tau.vercel.app/)
 
 I hope you **like** the result.
